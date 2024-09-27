@@ -1,4 +1,4 @@
-![YOUR Alt Text].(assest/ahmad.gif)
+![YOUR Alt Text].(assests/ahmad.gif)
 ## Hi there 👋
 
 Here are some ideas to get you started:
